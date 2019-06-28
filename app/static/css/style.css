@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    background-color: rgba(224, 96, 96, 0.795);
+    text-align: center;
+}
+h1{
+    color: blue ;
+    font-size: 70pt;
+}
